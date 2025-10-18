@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://github.com/HuynhVanChi/HuynhVanChi/blob/main/chibi_2D_under_1MB.jpg" width="200px" style="border-radius:50%;" alt="Chibi Avatar" />
+  <img src="https://github.com/HuynhVanChi/HuynhVanChi/blob/main/chibi_2D_under_1MB.jpg" width="200px" />
   
   <h1>👋 Hi, I'm Huynh Van Chi</h1>
   <p><b>💻 Web Developer | 🎮 Game Enthusiast | 🌌 Dark & Minimal Design Lover</b></p>
